@@ -1,0 +1,399 @@
+epoc 0
+loss:1.231
+acc = 63.68%
+
+epoc 1
+loss:0.994
+acc = 70.87%
+
+epoc 2
+loss:0.873
+acc = 73.52%
+
+epoc 3
+loss:0.811
+acc = 75.32%
+
+epoc 4
+loss:0.759
+acc = 76.60%
+
+epoc 5
+loss:0.724
+acc = 77.46%
+
+epoc 6
+loss:0.705
+acc = 78.09%
+
+epoc 7
+loss:0.685
+acc = 78.58%
+
+epoc 8
+loss:0.672
+acc = 78.93%
+
+epoc 9
+loss:0.648
+acc = 79.32%
+
+epoc 10
+loss:0.632
+acc = 79.52%
+
+epoc 11
+loss:0.618
+acc = 79.66%
+
+epoc 12
+loss:0.606
+acc = 79.78%
+
+epoc 13
+loss:0.589
+acc = 79.85%
+
+epoc 14
+loss:0.573
+acc = 79.77%
+
+epoc 15
+loss:0.559
+acc = 80.16%
+
+epoc 16
+loss:0.549
+acc = 80.25%
+
+epoc 17
+loss:0.532
+acc = 80.30%
+
+epoc 18
+loss:0.521
+acc = 80.41%
+
+epoc 19
+loss:0.509
+acc = 80.38%
+
+epoc 20
+loss:0.499
+acc = 80.49%
+
+epoc 21
+loss:0.490
+acc = 80.48%
+
+epoc 22
+loss:0.483
+acc = 80.57%
+
+epoc 23
+loss:0.470
+acc = 80.53%
+
+epoc 24
+loss:0.463
+acc = 80.56%
+
+epoc 25
+loss:0.454
+acc = 80.57%
+
+epoc 26
+loss:0.447
+acc = 80.50%
+
+epoc 27
+loss:0.439
+acc = 80.63%
+
+epoc 28
+loss:0.435
+acc = 80.49%
+
+epoc 29
+loss:0.428
+acc = 80.53%
+
+epoc 30
+loss:0.420
+acc = 80.55%
+
+epoc 31
+loss:0.411
+acc = 80.65%
+
+epoc 32
+loss:0.405
+acc = 80.63%
+
+epoc 33
+loss:0.398
+acc = 80.64%
+
+epoc 34
+loss:0.393
+acc = 80.63%
+
+epoc 35
+loss:0.389
+acc = 80.64%
+
+epoc 36
+loss:0.386
+acc = 80.66%
+
+epoc 37
+loss:0.380
+acc = 80.76%
+
+epoc 38
+loss:0.374
+acc = 80.65%
+
+epoc 39
+loss:0.369
+acc = 80.77%
+
+epoc 40
+loss:0.367
+acc = 80.77%
+
+epoc 41
+loss:0.360
+acc = 80.82%
+
+epoc 42
+loss:0.357
+acc = 80.73%
+
+epoc 43
+loss:0.353
+acc = 80.69%
+
+epoc 44
+loss:0.353
+acc = 80.62%
+
+epoc 45
+loss:0.349
+acc = 80.61%
+
+epoc 46
+loss:0.345
+acc = 80.61%
+
+epoc 47
+loss:0.343
+acc = 80.64%
+
+epoc 48
+loss:0.338
+acc = 80.61%
+
+epoc 49
+loss:0.336
+acc = 80.52%
+
+epoc 50
+loss:0.328
+acc = 80.55%
+
+epoc 51
+loss:0.326
+acc = 80.47%
+
+epoc 52
+loss:0.324
+acc = 80.49%
+
+epoc 53
+loss:0.321
+acc = 80.50%
+
+epoc 54
+loss:0.319
+acc = 80.48%
+
+epoc 55
+loss:0.316
+acc = 80.42%
+
+epoc 56
+loss:0.312
+acc = 80.58%
+
+epoc 57
+loss:0.312
+acc = 80.51%
+
+epoc 58
+loss:0.311
+acc = 80.45%
+
+epoc 59
+loss:0.308
+acc = 80.35%
+
+epoc 60
+loss:0.305
+acc = 80.32%
+
+epoc 61
+loss:0.304
+acc = 80.33%
+
+epoc 62
+loss:0.300
+acc = 80.30%
+
+epoc 63
+loss:0.299
+acc = 80.35%
+
+epoc 64
+loss:0.297
+acc = 80.34%
+
+epoc 65
+loss:0.294
+acc = 80.19%
+
+epoc 66
+loss:0.296
+acc = 80.15%
+
+epoc 67
+loss:0.295
+acc = 80.22%
+
+epoc 68
+loss:0.298
+acc = 80.11%
+
+epoc 69
+loss:0.296
+acc = 80.03%
+
+epoc 70
+loss:0.296
+acc = 80.03%
+
+epoc 71
+loss:0.293
+acc = 80.08%
+
+epoc 72
+loss:0.295
+acc = 80.16%
+
+epoc 73
+loss:0.292
+acc = 80.09%
+
+epoc 74
+loss:0.293
+acc = 80.07%
+
+epoc 75
+loss:0.292
+acc = 80.09%
+
+epoc 76
+loss:0.289
+acc = 80.08%
+
+epoc 77
+loss:0.288
+acc = 80.03%
+
+epoc 78
+loss:0.287
+acc = 80.00%
+
+epoc 79
+loss:0.288
+acc = 79.90%
+
+epoc 80
+loss:0.289
+acc = 79.95%
+
+epoc 81
+loss:0.286
+acc = 79.91%
+
+epoc 82
+loss:0.286
+acc = 79.82%
+
+epoc 83
+loss:0.282
+acc = 79.68%
+
+epoc 84
+loss:0.277
+acc = 79.74%
+
+epoc 85
+loss:0.278
+acc = 79.74%
+
+epoc 86
+loss:0.278
+acc = 79.66%
+
+epoc 87
+loss:0.275
+acc = 79.70%
+
+epoc 88
+loss:0.274
+acc = 79.66%
+
+epoc 89
+loss:0.274
+acc = 79.69%
+
+epoc 90
+loss:0.272
+acc = 79.66%
+
+epoc 91
+loss:0.271
+acc = 79.64%
+
+epoc 92
+loss:0.273
+acc = 79.58%
+
+epoc 93
+loss:0.267
+acc = 79.65%
+
+epoc 94
+loss:0.269
+acc = 79.69%
+
+epoc 95
+loss:0.267
+acc = 79.53%
+
+epoc 96
+loss:0.266
+acc = 79.58%
+
+epoc 97
+loss:0.263
+acc = 79.63%
+
+epoc 98
+loss:0.267
+acc = 79.49%
+
+epoc 99
+loss:0.262
+acc = 79.65%
